@@ -1,0 +1,6 @@
+C:\Users\asaldana\Documents\Visual Studio 2015\Tutorials\Hashtable\Hashtable\bin\Debug\Hashtable.exe.config
+C:\Users\asaldana\Documents\Visual Studio 2015\Tutorials\Hashtable\Hashtable\obj\Debug\Hashtable.csprojResolveAssemblyReference.cache
+C:\Users\asaldana\Documents\Visual Studio 2015\Tutorials\Hashtable\Hashtable\bin\Debug\Hashtable.exe
+C:\Users\asaldana\Documents\Visual Studio 2015\Tutorials\Hashtable\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\asaldana\Documents\Visual Studio 2015\Tutorials\Hashtable\Hashtable\obj\Debug\Hashtable.exe
+C:\Users\asaldana\Documents\Visual Studio 2015\Tutorials\Hashtable\Hashtable\obj\Debug\Hashtable.pdb
