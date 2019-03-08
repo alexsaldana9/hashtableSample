@@ -21,8 +21,11 @@ namespace HashtableSample
             Console.WriteLine("bytes1 ===", bytes1);
 
 
-            Hashtable ht = new Hashtable();
+            BitArray bitarraySample = new BitArray(8);
 
+
+            Hashtable ht = new Hashtable();
+           
             ht.Add("001", "mimimi mimi");
             ht.Add("002", "momomom muuuuu");
             ht.Add("003", bytes1);
@@ -36,6 +39,8 @@ namespace HashtableSample
             Console.WriteLine("To look inside of hashTabl: contains key");
             bool answer = ht.ContainsKey("001");
             Console.WriteLine("Does it contain 001 > {0}", answer);
+
+
 
         }
     }
